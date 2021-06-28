@@ -1,0 +1,1 @@
+Written in Python, this k-mer counter parses the contents of an unzipped fasta file according to length k specified by the user. It outputs a table for each sequence of all kmers of length k and their reverse complement and their total number in the sequence.
