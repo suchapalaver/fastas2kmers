@@ -9,4 +9,4 @@ Download the .py file to the directory with the fasta file you want to parse. Fr
 	python fastas2kmers.py <fasta_file_name> <k>
 
 	e.g., 
-	python fastas2kmers.py sequences.pan.fa 31
+	python fastas2kmers.py sample.fa 31
