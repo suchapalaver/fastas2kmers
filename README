@@ -1,1 +1,8 @@
+# fastas2kmers
 Written in Python, this k-mer counter parses the contents of an unzipped fasta file according to length k specified by the user. It outputs a table for each sequence of all kmers of length k and their reverse complement and their total number in the sequence.
+
+Download the .py file to the directory with the fasta file you want to parse. From that directory run:
+
+	python fastas2kmers.py <fasta_file_name> <k>
+
+	e.g., python fastas2kmers.py sequences.pan.fa 31
