@@ -10,3 +10,5 @@ Download fastas2kmers.py to the directory with the fasta file you want to parse.
 
 	e.g., 
 	python fastas2kmers.py sample.fa 31
+
+
